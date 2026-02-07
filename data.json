@@ -1,0 +1,16 @@
+
+
+{
+    "id":101,
+    "Name":"Priyanshu",
+    "isActive":true,
+    "languagePro":["English","hindi","Marathi","Gujrati"],
+    "techStack":{
+        "primary":"php",
+        "major":"React Dev"
+    },
+
+    "isPlaced":null
+}
+
+
